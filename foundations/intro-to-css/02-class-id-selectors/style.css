@@ -1,0 +1,26 @@
+.classone {
+    background-color: rgb(232, 127, 127);
+    font-family: "verdana", "arial", sans-serif;
+}
+
+#idone {
+    color: rgb(9, 244, 244);
+    font-size: 36px;
+}
+
+.twoclass {
+    background-color: rgb(232, 127, 127);
+    font-family: "verdana", "arial", sans-serif;
+    font-size: 24px;
+}
+
+.adjust-font {
+    background-color: rgb(140, 238, 140);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.classthree {
+    background-color: rgb(232, 127, 127);
+    font-family: "verdana", "arial", sans-serif;
+}
